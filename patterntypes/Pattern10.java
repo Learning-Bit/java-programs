@@ -1,0 +1,11 @@
+package com.kn.patterntypes;
+
+public class Pattern10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
